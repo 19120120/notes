@@ -1,7 +1,7 @@
 {
     "name": "Notas App",
     "short_name": "Notas",
-    "start_url": "/",
+    "start_url": "/notes",
     "display": "standalone",
     "background_color": "#ffffff",
     "lang": "es",
